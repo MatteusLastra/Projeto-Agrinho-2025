@@ -86,6 +86,8 @@
     </ul>
 </section>
 
+<img src="https://github.com/MatteusLastra/Projeto-Agrinho-2025/raw/main/ChatGPT%20Image%2017%20de%20jun.%20de%202025%2C%2010_46_18.png" alt="ChatGPT Image" width="400">
+
 <footer>
     <p>&copy; 2025 Sustentabilidade Ambiental - Todos os direitos reservados</p>
 </footer>
