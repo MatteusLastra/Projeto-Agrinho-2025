@@ -3,45 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sustentabilidade Ambiental</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        header {
-            background-color: #2d6a4f;
-            color: white;
-            text-align: center;
-            padding: 20px 0;
-        }
-        section {
-            padding: 20px;
-            margin: 20px;
-            background-color: #ffffff;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-        }
-        h1, h2 {
-            color: #2d6a4f;
-        }
-        ul {
-            list-style-type: disc;
-            margin-left: 20px;
-        }
-        footer {
-            text-align: center;
-            background-color: #2d6a4f;
-            color: white;
-            padding: 10px 0;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
+    
 </head>
 <body>
 
