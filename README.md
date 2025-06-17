@@ -21,7 +21,7 @@
     <p>Com o crescimento populacional e a industrialização, a exploração excessiva dos recursos naturais tem causado impactos negativos no meio ambiente. A poluição, o desmatamento e as mudanças climáticas são algumas das consequências desse modelo de desenvolvimento insustentável.</p>
     <p>A sustentabilidade ambiental é essencial para evitar que esses impactos se agravem, garantindo um futuro mais equilibrado para as próximas gerações.</p>
 
-<img src="https://raw.githubusercontent.com/MatteusLastra/Projeto-Agrinho-2025/a666601ca42baefb0b29515139b14d43f6df0f31/ChatGPT%20Image%2017%20de%20jun.%20de%202025%2C%2008_42_21.png" alt="Minha imagem do GitHub" width="600"/> <p>esta imagem for gerada por iA</p> <p>comando que usei Sustentabilidade Ambiental: O Caminho para o Futuro, gere uma imagem com esse tema
+<img src="https://raw.githubusercontent.com/MatteusLastra/Projeto-Agrinho-2025/a666601ca42baefb0b29515139b14d43f6df0f31/ChatGPT%20Image%2017%20de%20jun.%20de%202025%2C%2008_42_21.png" alt="Minha imagem do GitHub" width="400"/> <p>esta imagem for gerada por iA</p> <p>comando que usei: "Sustentabilidade Ambiental: O Caminho para o Futuro" gere uma imagem com esse tema
 
 
 </p>
@@ -48,7 +48,8 @@
     </ul>
 </section>
 
-<img src="https://github.com/MatteusLastra/Projeto-Agrinho-2025/raw/main/ChatGPT%20Image%2017%20de%20jun.%20de%202025%2C%2010_46_18.png" alt="ChatGPT Image" width="400">
+<img src="https://github.com/MatteusLastra/Projeto-Agrinho-2025/raw/main/ChatGPT%20Image%2017%20de%20jun.%20de%202025%2C%2010_46_18.png" alt="ChatGPT Image" width="400"> <p>esta imagem for gerada por iA</p> <p>comando que usei crie uma imagem com o tema: "Como Contribuir para a sustentabilidade ambiental"
+
 
 <footer>
     <p>&copy; 2025 Sustentabilidade Ambiental - Todos os direitos reservados</p>
