@@ -58,6 +58,7 @@
     <h2>Por que é Importante?</h2>
     <p>Com o crescimento populacional e a industrialização, a exploração excessiva dos recursos naturais tem causado impactos negativos no meio ambiente. A poluição, o desmatamento e as mudanças climáticas são algumas das consequências desse modelo de desenvolvimento insustentável.</p>
     <p>A sustentabilidade ambiental é essencial para evitar que esses impactos se agravem, garantindo um futuro mais equilibrado para as próximas gerações.</p>
+
 </section>
 <!DOCTYPE html>
 <html lang="pt-BR">
